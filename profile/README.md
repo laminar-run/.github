@@ -1,28 +1,25 @@
 # 🌐 Welcome to Laminar's GitHub profile! 🌐
 
-Laminar makes connecting APIs together simple, and easy to maintain. 🎛️
-
-Define an API. Transform any data sent to it, or from it through Laminar before it arrives. 🔄
+Laminar is an AI-powered platform for building custom integrations faster. 🚀
 
 ## 🤔 What is Laminar?
 
-Laminar is a platform for connecting APIs together. It's a tool for developers to define APIs, the schema of the data they respond with or accept, and perform operations on the data being sent/received to/from their APIs in transit.
+Laminar enables low to mid tech enterprises to use pre-built tooling and AI to build integrations to legacy or newer systems without needing dedicated integration teams or consultants. Integrations run on our low-code platform built for engineers.
 
 ## 🌟 What can Laminar do?
 
-* 📡 API Connections: Seamlessly connect APIs together, no matter the format or structure.
-* 🛠️ Data Transformation: Modify and manipulate data in transit between APIs using our powerful transformation engine.
-* 📋 Schema Validation: Define the schema for your APIs and ensure that the data being sent or received adheres to it.
-* ⚠️ Error Handling: Handle errors gracefully and avoid unexpected results.
-* 📊 API Monitoring: Keep track of your API connections and monitor their performance.
+* 🔗 Custom Integrations: Build tailored integrations for your unique business processes and systems.
+* 🧠 AI-Assisted Development: Leverage AI to generate integration architecture and accelerate development.
+* 🛠️ Low-Code Platform: Combine the flexibility of custom coding with the efficiency of low-code tools.
+* 🔄 Workflow Management: Design and manage complex integration workflows with ease.
+* 📊 Scalability: Grow your integrations from simple connections to complex, multi-system architectures.
+* 💼 Legacy System Support: Connect older systems with modern applications.
 
 ## 🚀 Getting Started
 
-Create your first API connection by following the [Getting Started Guide](https://docs.laminar.run/#0d426c72-a724-48a9-9c9d-ba763ccdc455).
+1. Explore our [Documentation](https://docs.laminar.run) to learn about Laminar's features and capabilities.
+2. Sign up for a [Free Trial](https://app.laminar.run/trial) to experience the power of Laminar firsthand.
 
-Explore the [Documentation](https://docs.laminar.run/#278e8c66-45a1-46df-bd37-a13f2827a824) to learn more about Laminar's features and how to use them effectively.
+---
 
-Join the [Laminar Community](https://discord.gg/m32W48sdHX) to share your experience, ask questions, and get help from other developers.
-
---- 
-Happy API connecting! 😊
+Transform your integration process with Laminar! 🌟
