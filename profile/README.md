@@ -1,25 +1,39 @@
-# 🌐 Welcome to Laminar's GitHub profile! 🌐
+# Laminar
 
-Laminar is an AI-powered platform for building custom integrations faster. 🚀
+Self-healing computer use agents for desktop automation at scale.
 
-## 🤔 What is Laminar?
-
-Laminar enables low to mid tech enterprises to use pre-built tooling and AI to build integrations to legacy or newer systems without needing dedicated integration teams or consultants. Integrations run on our low-code platform built for engineers.
-
-## 🌟 What can Laminar do?
-
-* 🔗 Custom Integrations: Build tailored integrations for your unique business processes and systems.
-* 🧠 AI-Assisted Development: Leverage AI to generate integration architecture and accelerate development.
-* 🛠️ Low-Code Platform: Combine the flexibility of custom coding with the efficiency of low-code tools.
-* 🔄 Workflow Management: Design and manage complex integration workflows with ease.
-* 📊 Scalability: Grow your integrations from simple connections to complex, multi-system architectures.
-* 💼 Legacy System Support: Connect older systems with modern applications.
-
-## 🚀 Getting Started
-
-1. Explore our [Documentation](https://docs.laminar.run) to learn about Laminar's features and capabilities.
-2. Sign up for a [Free Trial](https://app.laminar.run/trial) to experience the power of Laminar firsthand.
+[![Website](https://img.shields.io/badge/website-laminar.run-656fcb)](https://laminar.run)
+[![Docs](https://img.shields.io/badge/docs-docs.laminar.run-656fcb)](https://docs.laminar.run)
+[![SOC 2 Type II](https://img.shields.io/badge/SOC_2-Type_II-green)](https://app.mycroft.io/trust/laminar)
+[![HIPAA](https://img.shields.io/badge/HIPAA-Compliant-green)](https://app.mycroft.io/trust/laminar)
 
 ---
 
-Transform your integration process with Laminar! 🌟
+Laminar replaces brittle RPA scripts with computer use agents that see the screen, adapt to UI changes, and recover from errors without human intervention. Running in production across major EHR systems.
+
+### Quick links
+
+| | |
+|---|---|
+| Documentation | [docs.laminar.run](https://docs.laminar.run) |
+| Playground | [playground.laminar.run](https://playground.laminar.run) |
+| Use Cases | [laminar.run/use-cases](https://laminar.run/use-cases) |
+| Blog | [laminar.run/blog](https://laminar.run/blog) |
+| Trust Center | [app.mycroft.io/trust/laminar](https://app.mycroft.io/trust/laminar) |
+| Careers | [laminar.run/careers](https://laminar.run/careers) |
+
+### How it works
+
+```
+API Request --> Laminar Platform --> Routes to Windows VM --> Computer Use Agent Executes --> JSON Response
+```
+
+- Vision-based desktop interaction. No selectors, no coordinates, no scripts that break on UI updates.
+- Verification after every action. Catches misclicks before they cascade.
+- Gets faster with repeated use. The 100th run is significantly faster than the 1st.
+- Scales horizontally across VM pools with automatic routing and failover.
+- Full execution replay with screenshots for every run.
+
+### Get in touch
+
+[connect@laminar.run](mailto:connect@laminar.run) | [Book a demo](https://laminar.run/book-demo)
