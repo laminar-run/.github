@@ -1,4 +1,4 @@
-# Laminar
+# Minicor
 
 Computer use agents for legacy desktop software.
 
